@@ -1,1 +1,1 @@
-# TimeSort, ported into c++ and testing
+# TimSort, ported into c++ and testing
